@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ml-end-to-end
+Version: 0.1
+Author: Ruchi
+Author-email: ruchideshmukh12@icloud.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
